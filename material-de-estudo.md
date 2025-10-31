@@ -1,4 +1,4 @@
-# Material de Estudo - Versão Inicial
+# Material de Estudo - Versão Final
 
 - Conceito 1: Versionamento**  
   O versionamento é o processo de registrar e controlar as mudanças feitas em um projeto ao longo do tempo. Ele permite voltar a versões anteriores e entender o histórico de modificações.
