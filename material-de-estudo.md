@@ -23,3 +23,4 @@ O commit é importante porque registra cada modificação feita no projeto, perm
 
 Qual a vantagem do GitHub? 
 O GitHub oferece um ambiente centralizado para armazenar, versionar e compartilhar códigos. Ele facilita o trabalho em equipe, a colaboração com pull requests, o controle de histórico e o backup seguro dos projetos, tornando o desenvolvimento mais organizado e eficiente.
+ fix: ajusta formatação do conceito 3
